@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://c2imbom1905-hub.github.io/asuslog/sitemap.xml
